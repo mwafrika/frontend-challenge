@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://event-frontend-challenge.netlify.app/)
 
 ## Getting Started
 
